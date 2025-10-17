@@ -65,25 +65,6 @@ winoptimizer/
 
 ---
 
-## 🖼️ Screenshots
-
-### 1️⃣ Dashboard Overview
-
-![Dashboard Overview](https://via.placeholder.com/800x400?text=System+Dashboard+Overview)
-Displays CPU, memory, and disk statistics updated in real time.
-
-### 2️⃣ CPU Usage Graph
-
-![CPU Graph](https://via.placeholder.com/800x400?text=CPU+Usage+Graph)
-Visual representation of system performance.
-
-### 3️⃣ Memory and Disk View
-
-![Memory and Disk](https://via.placeholder.com/800x400?text=Memory+and+Disk+Usage)
-Tracks total, used, and free memory and storage.
-
----
-
 ## 📚 Technologies Used
 
 * **Golang** — main programming language
