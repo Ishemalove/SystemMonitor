@@ -108,13 +108,6 @@ Tracks total, used, and free memory and storage.
 * Integrate network monitoring
 * Add modern UI using Go templates or React
 
----
-
-## 👩‍💻 Author
-
-**ISHEMA NKERABAHIZI Love**
-Rwanda Coding Academy
-A passionate developer creating efficient and educational software in Go.
 
 ---
 
